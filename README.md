@@ -3,7 +3,7 @@ i do:
 - pixel art (sometimes)
 - music
 
-i can make fnf and minecraft mods
+i can make fnf mods
 
 most of my projects will be available to download on my github, including the source code
 
