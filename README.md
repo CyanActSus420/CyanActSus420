@@ -5,13 +5,13 @@ i do:
 
 i can make fnf mods
 
-most of my projects will be available to download on my github, including the source code
+most of my projects and their source code will be available here
 
 i can code in:
 - clickteam fusion
 - lua
-- haxe (sort of)
-- python (sort of)
+- haxe
+- gdscript (godot 3.5)
 
 also if someone cares here is a list of the software i use
 - fl studio
