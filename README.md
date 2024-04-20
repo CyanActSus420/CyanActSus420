@@ -16,4 +16,4 @@ i can code in:
 also if someone cares here is a list of the software i use
 - fl studio
 - aseprite
-- visual studio
+- visual studio code
