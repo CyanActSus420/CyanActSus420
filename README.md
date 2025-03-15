@@ -1,1 +1,1 @@
-i do godot and fnf stuff mostly
+i do random and fnf stuff mostly
