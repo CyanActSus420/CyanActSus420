@@ -1,1 +1,1 @@
-i do random and fnf stuff mostly
+i do stuff sometimes
